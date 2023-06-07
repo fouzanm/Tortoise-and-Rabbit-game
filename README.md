@@ -7,8 +7,10 @@
   ->if the guessed number has a digit anywhere in the generated number, the user gets a tortoise
   ->the number of attempts to have no restriction
   ->display the count of both rabbit and tortoise '''
-  
- import random
+
+#program
+
+import random
 
 list=[]
 for i in range(4):
